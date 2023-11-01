@@ -1,0 +1,15 @@
+.principal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@font-face {
+    font-family: Coolvetica;
+    src: url(../assets/fonts/coolvetica.otf)
+  }
+  
+.fonte {
+    font-family: Coolvetica;
+}
